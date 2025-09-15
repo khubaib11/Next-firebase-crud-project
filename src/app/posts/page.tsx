@@ -28,7 +28,7 @@ export default function PostsPage() {
   return (
     <div className="max-w-5xl mx-auto py-8 px-4">
       <div className="flex justify-between items-center mb-8">
-        <h1 className="text-3xl font-bold text-gray-900">All Posts</h1>
+        <h1 className="text-3xl font-bold text-white-900">All Posts</h1>
         <Link 
           href="/posts/new"
           className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition flex items-center"
