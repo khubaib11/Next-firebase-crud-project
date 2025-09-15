@@ -12,6 +12,7 @@ A modern Next.js application demonstrating CRUD operations using Firebase Firest
 This project was developed by **Khubaib Khan** as a skill showcase for **Wonder Craftz**.
 
 🔗 [My Portfolio](https://khubaib-khan-portfolio.vercel.app/)
+🌐 [Live Demo](https://next-firebase-crud-project-rrd9.vercel.app/)
 
 ## ✨ Features
 
@@ -89,8 +90,8 @@ export default function PostPage({ params }: { params: { id: string } }) {
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/firestore-crud-kk.git
-cd firestore-crud-kk
+git clone https://github.com/khubaib11/Next-firebase-crud-project.git
+cd Next-firebase-crud-project
 ```
 
 2. Install dependencies:
@@ -107,6 +108,9 @@ npm install
 ```bash
 npm run dev
 ```
+
+5. Deployment:
+   This project is deployed on Vercel at [https://next-firebase-crud-project-rrd9.vercel.app/](https://next-firebase-crud-project-rrd9.vercel.app/)
 
 ## 📱 Usage
 
